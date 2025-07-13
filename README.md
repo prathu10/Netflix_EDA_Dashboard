@@ -59,9 +59,8 @@ Each insight is presented on a **modular, well-organized dashboard page**, makin
 
 ##  Tools & Technologies
 
-- [Tableau Public](https://public.tableau.com/) – for building interactive dashboards  
-- [PostgreSQL](https://www.postgresql.org/) – data cleaning and normalization  
-- [Python](https://www.python.org/) – optional data wrangling  
+- [Tableau Public](https://public.tableau.com/) – for building interactive dashboards   
+- [Python](https://www.python.org/) – (Pandas & NumPy) for data cleaning and wrangling
 - [GitHub](https://github.com/) – version control and portfolio hosting
 
 ---
