@@ -79,7 +79,9 @@ To explore the dashboard:
 
 ##  Preview
 
-*(Optional: Insert screenshots or GIFs of each dashboard page here)*
+<p align="center">
+  <img src="dashboard.jpg" width="150" alt="Dashboard"/>
+</p>
 
 ---
 
