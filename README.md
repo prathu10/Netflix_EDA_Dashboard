@@ -80,7 +80,7 @@ To explore the dashboard:
 ##  Preview
 
 <p align="center">
-  <img src="dashboard.jpg" width="150" alt="Dashboard"/>
+  <img src="dashboard.jpg" width="750" alt="Dashboard"/>
 </p>
 
 ---
